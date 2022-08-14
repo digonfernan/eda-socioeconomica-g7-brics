@@ -1,1 +1,1 @@
-# eda-socioeconomica-g7-brics
+# Análise Exploratória Socioeconômica G7 x BRICS
